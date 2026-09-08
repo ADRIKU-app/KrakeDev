@@ -1,3 +1,4 @@
 Nombre: Adrián Navarro
-Edad: 28 años
 Hobby: Me gusta jugar fútbol y actualmente programar
+Película favorita: Fast & Furious
+Comida favorita: KFC
