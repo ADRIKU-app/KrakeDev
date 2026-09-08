@@ -1,3 +1,9 @@
 git clone <Sirve para clonar el repositorio remoto al repositorio local>
 
 git commit <Sirve para dar un mensaje descriptivo de los cambios realizados en la actualización[[on del git push>
+
+git push <sirve para subir los archivos al repositorio remoto>
+
+git status <Sirve para ver la información del repositorio desde donde estamos trabajando
+
+git add <Sirve para cambiar el estado de un archivo UNCRACKED a staging area
